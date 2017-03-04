@@ -8,5 +8,6 @@ Instructions
 4. Go to 'http://firebase.google.com' and get your application created
 5. On Overview tab in Firebase console, click on 'Add Firebase to your web app' and copy the code snippet.
 6. Paste the code snippet in index.html (find the placeholder)
+7. Run index.html in the browser on different tabs to test the application.
 
 Note: Webpack should be installed globally on your system
